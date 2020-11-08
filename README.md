@@ -1,5 +1,5 @@
-# A187 ID
-BOT WHATSAPP HP Aris187 ID
+# H4N5
+BOT WHATSAPP HP H4N5
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -46,6 +46,6 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Donate                           |
 
 ## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`]
 
 
